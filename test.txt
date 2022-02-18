@@ -9,5 +9,5 @@ public static void GetSalary()
 
 public static void GetEmployeeName()
 {
-
+//get employee name by employee id
 }

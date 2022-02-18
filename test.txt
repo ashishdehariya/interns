@@ -1,3 +1,13 @@
 sample text
 
 sample text 1
+
+public static void GetSalary()
+{
+
+}
+
+public static void GetEmployeeName()
+{
+
+}
